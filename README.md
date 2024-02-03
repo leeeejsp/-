@@ -1,3 +1,12 @@
+[관련링크]
+<br/>
+https://leeeejsp.tistory.com/5
+<br/>
+https://leeeejsp.tistory.com/6
+<br/>
+https://leeeejsp.tistory.com/9
+</br>
+
 # 복잡한 학점 계산은 이제 그만!!
 
 ## 졸업학점계산기가 당신의 학점 계산을 도와드릴 것입니다.
